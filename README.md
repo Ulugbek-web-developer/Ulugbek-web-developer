@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ulugbek-web-developer
 - 👀 I’m interested in frontend 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything on the frontend
+- 💞️ I’m looking to collaborate on layout
 - 📫 How to reach me my email ur1837907@gmail.com
 - 😄 Pronouns: 🤨😘🥰
 - ⚡ Fun fact: I live in Uzbekistan
